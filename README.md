@@ -34,5 +34,4 @@ CustomerID | Recency | Frequency | Monetary | Segment
 1. Clone this repository or download the files.
 2. Place your raw dataset (Online Retail.xlsX) in the project directory.
 3. Run the Python script:
-   `
-   python project1.py<img width="947" height="472" alt="image" src="https://github.com/user-attachments/assets/32a8e529-84c6-4618-8828-3a514e9fd902" />
+   
